@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "Markusfilm",
+        "url": "https://markusfilm.com/",
+        "description": "V rámci odbornej praxe bolo mojou úlohou navrhnúť dizajn a naprogramovať redakčný systém pre firmu Markusfilm. Súčasťou programovania tejto webovej stránky bolo spracovanie zozbieraných dát z castingu z predchádzajúcej webovej stránky. Po spracovaní a vyfiltrovaní dát bolo potrebné vytvoriť formulár na zber nových dát a rozhranie pre administrátora na vyhľadávanie v castingu. Táto časť projektu sa neskôr čiastočne osamostatnila.",
+        "year_from": "09/2016",
+        "year_to": "05/2021"
+    },
+    {
+        "id": 1,
+        "title": "JKM plus",
+        "url": "https://jkmplus.sk/",
+        "description": "Pre firmu JKM plus s.r.o. sme s kolegom v rámci odbornej praxe vyvíjali internú webovú aplikáciu na správu firmy. Vo webovej aplikácii je okrem iného možné pridávať zamestnancov, umiestňovať zamestnancov na stavby, prideľovať im ubytovanie, vytvárať faktúry a zmluvy, a spravovať sklad. Po pridaní nového zamestnanca je mu vygenerovaný prístup do zamestnaneckého rozhrania, v ktorom môže nahrávať faktúry a šichtovnice, a môže si pozrieť svoje zmluvy, faktúry a na akú stavbu, a aké ubytovanie bol umiestnený.",
+        "year_from": "09/2018",
+        "year_to": "07/2019"
+    },
+    {
+        "id": 2,
+        "title": "Markusfilm Casting",
+        "url": "https://markusfilm.com/casting/databaze/",
+        "description": "Počas odbornej praxe vo firme Markusfilm som pracoval na programovaní webovej stránky firmy a na castingovej databáze. Spočiatku bola táto databáza súkromná, no neskôr sa ju firma rozhodla sprístupniť širokej verejnosti. Pred otvorením castingovej databázy pre verejnosť som pracoval na jej redizajne, vylepšení filtrov a načítavní dát. Taktiež som upravoval formulár na zber dát, ktorý sa nachádza na webovej stránke firmy.",
+        "year_from": "10/2018",
+        "year_to": "05/2021"
+    },
+    {
+        "id": 3,
+        "title": "Majncraft",
+        "url": "https://majncraft.cz/",
+        "description": "Webová stránka je na back-ende postavená na frameworku Laravel a má podporu dvoch jazykov. Redakčný systém je jednoduchý, umožňuje vytvárať krátke novinky, podstránky, či otázky pre Whitelist. Zaujímavosťou je Whitelist test, ktorý musí hráč vyplniť predtým ako sa pripojí na server – najskôr sa overí, či má hráč zakúpenú hru a v prípade, že hru zakúpenú má sa mu zobrazí nastavený počet otázok, na ktoré musí odpovedať správne.",
+        "year_from": "09/2019",
+        "year_to": "súčasnosť"
+    },
+    {
+        "id": 4,
+        "title": "ASData",
+        "url": "https://asdata.sk/",
+        "description": "Vo firme ASData som pracoval ako Prestashop developer. Primárne som pracoval na rôznych e-shopoch postavených na e-commerce platforme Prestashop pre rôznych klientov, napr. GastroFactory, Northfinder alebo Dynamax. Okrem e-shopov som pracoval aj na viacerých aplikáciách postavených na frameworku Laravel. Mojou pracovnou náplňou bola analýza a zapracovanie požiadaviek klientov.",
+        "year_from": "10/2019",
+        "year_to": "10/2021"
+    },
+    {
+        "id": 5,
+        "title": "Dajana Rodriguez",
+        "url": "https://dajanarodriguez.sk",
+        "description": "Ako full-stack developer mám na starosti analýzu, návrh a vývoj novej funkcionality pre e-shop a interné systémy firmy.",
+        "year_from": "10/2021",
+        "year_to": "súčasnosť"
+    }
+]
